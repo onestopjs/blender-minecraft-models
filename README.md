@@ -13,5 +13,10 @@ Contributions are more than welcome. So far, it's just me who is working on it, 
 
 If more people start contributing, I will think about creating an issue tracking all the blocks in progress.
 
+If you create something, you may want to check the resourcepack (in the credits section) which I used for the textures and normal maps. If people are interested in contributing, I will create or post a guide on how to make normal maps yourself.
+
+## Credits
+Thanks to MinecraftForum user [Topfpflanze91](https://www.minecraftforum.net/members/Topfpflanze91)! I used his [Default Improved Resourcepack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2539470-default-improved-normal-specular-parallax) for the textures and normal maps.
+
 ## Disclaimer
 I am a total noob in Blender, I can barely get by. Things probably have been done sub-optimally. If anyone more knowledgeable is willing to take over, I would be more than happy to!
